@@ -1,0 +1,14 @@
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\bin\Debug\net8.0\lucktest.exe
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\bin\Debug\net8.0\lucktest.deps.json
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\bin\Debug\net8.0\lucktest.runtimeconfig.json
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\bin\Debug\net8.0\lucktest.dll
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\bin\Debug\net8.0\lucktest.pdb
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.AssemblyInfoInputs.cache
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.AssemblyInfo.cs
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.csproj.CoreCompileInputs.cache
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.dll
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\refint\lucktest.dll
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.pdb
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\lucktest.genruntimeconfig.cache
+c:\Users\zulfiqar.mughul\Documents\prog1\lucktest23\lucktest\obj\Debug\net8.0\ref\lucktest.dll
